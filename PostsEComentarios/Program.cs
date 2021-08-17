@@ -8,7 +8,7 @@ namespace PostsEComentarios
         static void Main(string[] args) // A Classe "Main" geralmente é utilizada para alimentar as classes e gerar a resposta na tela
 
         {   //Descreveu os comentarios
-            Comentario c1 = new Comentario("Tenha uma boa viagem");//comentario c1
+            Comentario c1 = new Comentario("Tenha uma boa viagem!");//comentario c1
             Comentario c2 = new Comentario("Uau, isso é incrivel!");//comentario c2
 
 
@@ -29,7 +29,7 @@ namespace PostsEComentarios
             Posts p2 = new Posts( //Post p2
                 DateTime.Parse("28/07/2018 23:14:19"), //date Time
                 "Boa noite galera",//Titulo
-                "Vejo você amanhã", 5);//Conteudo e curtidas
+                "Vejo vocês amanhã", 5);//Conteudo e curtidas
             //Adicionou os comentarios embaixo do post 2
             p2.AddComentario(c3);//Adiciona o comentario c3 no Post 2
             p2.AddComentario(c4);//Adiciona o comentario c4 no Post 2
