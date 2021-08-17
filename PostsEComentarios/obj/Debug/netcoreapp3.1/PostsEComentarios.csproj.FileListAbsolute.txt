@@ -1,0 +1,13 @@
+C:\Users\klebe\source\repos\PostsEComentarios\PostsEComentarios\bin\Debug\netcoreapp3.1\PostsEComentarios.exe
+C:\Users\klebe\source\repos\PostsEComentarios\PostsEComentarios\bin\Debug\netcoreapp3.1\PostsEComentarios.deps.json
+C:\Users\klebe\source\repos\PostsEComentarios\PostsEComentarios\bin\Debug\netcoreapp3.1\PostsEComentarios.runtimeconfig.json
+C:\Users\klebe\source\repos\PostsEComentarios\PostsEComentarios\bin\Debug\netcoreapp3.1\PostsEComentarios.runtimeconfig.dev.json
+C:\Users\klebe\source\repos\PostsEComentarios\PostsEComentarios\bin\Debug\netcoreapp3.1\PostsEComentarios.dll
+C:\Users\klebe\source\repos\PostsEComentarios\PostsEComentarios\bin\Debug\netcoreapp3.1\PostsEComentarios.pdb
+C:\Users\klebe\source\repos\PostsEComentarios\PostsEComentarios\obj\Debug\netcoreapp3.1\PostsEComentarios.csprojAssemblyReference.cache
+C:\Users\klebe\source\repos\PostsEComentarios\PostsEComentarios\obj\Debug\netcoreapp3.1\PostsEComentarios.AssemblyInfoInputs.cache
+C:\Users\klebe\source\repos\PostsEComentarios\PostsEComentarios\obj\Debug\netcoreapp3.1\PostsEComentarios.AssemblyInfo.cs
+C:\Users\klebe\source\repos\PostsEComentarios\PostsEComentarios\obj\Debug\netcoreapp3.1\PostsEComentarios.csproj.CoreCompileInputs.cache
+C:\Users\klebe\source\repos\PostsEComentarios\PostsEComentarios\obj\Debug\netcoreapp3.1\PostsEComentarios.dll
+C:\Users\klebe\source\repos\PostsEComentarios\PostsEComentarios\obj\Debug\netcoreapp3.1\PostsEComentarios.pdb
+C:\Users\klebe\source\repos\PostsEComentarios\PostsEComentarios\obj\Debug\netcoreapp3.1\PostsEComentarios.genruntimeconfig.cache
